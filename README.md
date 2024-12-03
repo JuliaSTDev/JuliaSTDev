@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Mobile`**
 
-Me chamo Julia Maria dos Santos, tenho 26 anos e sou natural de São Paulo. Concluí a faculdade de Análise e Desenvolvimento de Sistemas na FMU, onde desenvolvi habilidades em programação e inovação tecnológica. Sou apaixonada por tecnologia, futebol e jogos eletrônicos, sempre buscando maneiras de integrar minha paixão por essas áreas ao meu trabalho. Atualmente, estou expandindo meus conhecimentos e projetos no GitHub, com foco em criar soluções criativas e funcionais. Busco oportunidades que me permitam crescer como desenvolvedora e contribuir com soluções inovadoras.
+Me chamo Julia Maria dos Santos, tenho 26 anos e sou natural de São Paulo. Concluí a faculdade de Análise e Desenvolvimento de Sistemas na FMU, onde desenvolvi habilidades em programação e inovação tecnológica. Sou apaixonada por tecnologia, sempre buscando maneiras de integrar minha paixão por essas áreas ao meu trabalho. Atualmente, estou expandindo meus conhecimentos e projetos no GitHub, com foco em criar soluções criativas e funcionais. Busco oportunidades que me permitam crescer como desenvolvedora e contribuir com soluções inovadoras.
 
 <p align="center">
   

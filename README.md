@@ -173,6 +173,6 @@ Me chamo Julia Maria dos Santos, tenho 26 anos e sou natural de São Paulo. Conc
   <img 
     alt="GitHub Stats" 
     height="180" 
-    src="https://github-readme-stats-7-git-7873cc-julia-santos-projects-6365454c.vercel.app/api/top-langs/?username=JuliaSTDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats-7ckr.vercel.app/api/top-langs/?username=JuliaSTDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>

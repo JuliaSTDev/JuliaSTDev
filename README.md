@@ -163,7 +163,7 @@ Me chamo Julia Maria dos Santos, tenho 26 anos e sou natural de São Paulo. Conc
 
 ### 📊 Estatísticas
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td>
       <img 
